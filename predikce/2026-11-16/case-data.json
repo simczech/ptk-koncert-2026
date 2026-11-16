@@ -1,0 +1,437 @@
+{
+ "placeholder": false,
+ "slug": "ptk-koncert-2026",
+ "artist": "PTK",
+ "stamp": "16. listopadu 2026 před 18:45",
+ "capacity": 18000,
+ "capacity_range": [
+  16000,
+  20000
+ ],
+ "sellout": {
+  "arena1_min": {
+   "p10": 9,
+   "p50": 25,
+   "p90": 68
+  },
+  "arena2_min": {
+   "p10": 9,
+   "p50": 24,
+   "p90": 67
+  },
+  "p_arena1_opening": 0.997,
+  "p_second_date": 0.557,
+  "p_third_date": 0.094,
+  "p_stadium_32k": 0.661,
+  "throughput_per_min": {
+   "low": 267,
+   "high": 2000
+  },
+  "demand_tickets": {
+   "p10": 22718,
+   "p50": 38122,
+   "p90": 53320
+  },
+  "channel_members": 73700,
+  "tickets_per_person": 1.88
+ },
+ "price": {
+  "ladder": [
+   {
+    "price": 690,
+    "buy": 0.631,
+    "greedy": 0.0
+   },
+   {
+    "price": 990,
+    "buy": 0.504,
+    "greedy": 0.0
+   },
+   {
+    "price": 1290,
+    "buy": 0.34,
+    "greedy": 0.0
+   },
+   {
+    "price": 1590,
+    "buy": 0.199,
+    "greedy": 0.167
+   },
+   {
+    "price": 1990,
+    "buy": 0.093,
+    "greedy": 0.375
+   },
+   {
+    "price": 2490,
+    "buy": 0.031,
+    "greedy": 0.729
+   },
+   {
+    "price": 2990,
+    "buy": 0.006,
+    "greedy": 0.917
+   },
+   {
+    "price": 3990,
+    "buy": 0.0,
+    "greedy": 0.958
+   }
+  ],
+  "best_price": 1590,
+  "revenue_peak_uncapped": 990,
+  "fair_max_price": 1590,
+  "greedy_limit": 0.25,
+  "median_max_price": 1800,
+  "n_people": 240,
+  "share_fans_17_34": 0.2,
+  "gross_at_fair_max_czk": 28620000,
+  "gross_at_990_czk": 17820000
+ },
+ "social": {
+  "read_at": "16. 11. 2026 18:20",
+  "artists": [
+   {
+    "name": "PTK",
+    "instagram_followers": 298204,
+    "ig_avg_likes": 41223,
+    "ig_avg_comments": 584,
+    "ig_engagement_pct": 14.0,
+    "tiktok_followers": null,
+    "youtube_subscribers": null,
+    "spotify_monthly_listeners": 931600,
+    "o2": null
+   },
+   {
+    "name": "Yzomandias",
+    "instagram_followers": 522503,
+    "ig_avg_likes": 40113,
+    "ig_avg_comments": 268,
+    "ig_engagement_pct": 7.7,
+    "tiktok_followers": 145200,
+    "youtube_subscribers": null,
+    "spotify_monthly_listeners": 984000,
+    "o2": "2026: 16 hodin, 2 termíny"
+   },
+   {
+    "name": "Calin",
+    "instagram_followers": 389282,
+    "ig_avg_likes": 47894,
+    "ig_avg_comments": 148,
+    "ig_engagement_pct": 12.3,
+    "tiktok_followers": null,
+    "youtube_subscribers": 88200,
+    "spotify_monthly_listeners": 1300000,
+    "o2": "2025: 24 hodin, 2 termíny"
+   },
+   {
+    "name": "Viktor Sheen",
+    "instagram_followers": null,
+    "ig_avg_likes": null,
+    "ig_avg_comments": null,
+    "ig_engagement_pct": null,
+    "tiktok_followers": null,
+    "youtube_subscribers": 305000,
+    "spotify_monthly_listeners": 1000000,
+    "o2": "2023 s Calinem: vyprodáno"
+   },
+   {
+    "name": "Nik Tendo",
+    "instagram_followers": 330206,
+    "ig_avg_likes": null,
+    "ig_avg_comments": null,
+    "ig_engagement_pct": null,
+    "tiktok_followers": null,
+    "youtube_subscribers": null,
+    "spotify_monthly_listeners": 649000,
+    "o2": null
+   },
+   {
+    "name": "Separ",
+    "instagram_followers": 562060,
+    "ig_avg_likes": 24836,
+    "ig_avg_comments": 70,
+    "ig_engagement_pct": 4.4,
+    "tiktok_followers": null,
+    "youtube_subscribers": null,
+    "spotify_monthly_listeners": 830900,
+    "o2": null
+   },
+   {
+    "name": "Pil C",
+    "instagram_followers": 274163,
+    "ig_avg_likes": 16380,
+    "ig_avg_comments": 33,
+    "ig_engagement_pct": 6.0,
+    "tiktok_followers": null,
+    "youtube_subscribers": null,
+    "spotify_monthly_listeners": 512400,
+    "o2": null
+   },
+   {
+    "name": "Hasan",
+    "instagram_followers": 97536,
+    "ig_avg_likes": 6438,
+    "ig_avg_comments": 35,
+    "ig_engagement_pct": 6.6,
+    "tiktok_followers": 3148,
+    "youtube_subscribers": null,
+    "spotify_monthly_listeners": 367700,
+    "o2": null
+   }
+  ],
+  "ptk_posts": [
+   {
+    "date": "2026-01-12",
+    "likes": 26055,
+    "comments": 422
+   },
+   {
+    "date": "2026-03-04",
+    "likes": 46357,
+    "comments": 766
+   },
+   {
+    "date": "2026-03-06",
+    "likes": 41206,
+    "comments": 1536
+   },
+   {
+    "date": "2026-04-12",
+    "likes": 25861,
+    "comments": 387
+   },
+   {
+    "date": "2026-04-15",
+    "likes": 27633,
+    "comments": 501
+   },
+   {
+    "date": "2026-04-19",
+    "likes": 49544,
+    "comments": 577
+   },
+   {
+    "date": "2026-05-12",
+    "likes": 62419,
+    "comments": 418
+   },
+   {
+    "date": "2026-05-28",
+    "likes": 41239,
+    "comments": 590
+   },
+   {
+    "date": "2026-06-09",
+    "likes": 29545,
+    "comments": 1358
+   },
+   {
+    "date": "2026-06-19",
+    "likes": 65838,
+    "comments": 887
+   },
+   {
+    "date": "2026-06-29",
+    "likes": 38901,
+    "comments": 454
+   },
+   {
+    "date": "2026-07-08",
+    "likes": 39128,
+    "comments": 393469
+   },
+   {
+    "date": "2026-07-14",
+    "likes": 61636,
+    "comments": 409
+   },
+   {
+    "date": "2026-08-25",
+    "likes": 64757,
+    "comments": 414
+   },
+   {
+    "date": "2026-08-27",
+    "likes": 41071,
+    "comments": 223
+   },
+   {
+    "date": "2026-09-02",
+    "likes": 52546,
+    "comments": 1808
+   },
+   {
+    "date": "2026-09-04",
+    "likes": 38309,
+    "comments": 295
+   },
+   {
+    "date": "2026-09-12",
+    "likes": 41481,
+    "comments": 601
+   },
+   {
+    "date": "2026-09-15",
+    "likes": 24738,
+    "comments": 616
+   },
+   {
+    "date": "2026-09-20",
+    "likes": 69212,
+    "comments": 1673
+   },
+   {
+    "date": "2026-09-27",
+    "likes": 71634,
+    "comments": 439
+   },
+   {
+    "date": "2026-10-14",
+    "likes": 30496,
+    "comments": 1504
+   },
+   {
+    "date": "2026-11-10",
+    "likes": 58040,
+    "comments": 514
+   },
+   {
+    "date": "2026-11-12",
+    "likes": 32956,
+    "comments": 1110
+   }
+  ],
+  "ptk_channel_members": 73700,
+  "ptk_call_reactions": 11800
+ },
+ "sentiment": {
+  "n_comments": 173,
+  "n_posts": 12,
+  "positive": 0.74,
+  "neutral": 0.214,
+  "negative": 0.046,
+  "themes": [
+   {
+    "label": "Podpora a hudba",
+    "share": 0.624
+   },
+   {
+    "label": "Ostatní",
+    "share": 0.197
+   },
+   {
+    "label": "Merch a oblečení",
+    "share": 0.081
+   },
+   {
+    "label": "Koncerty a vstupenky",
+    "share": 0.052
+   },
+   {
+    "label": "Kritika a posměch",
+    "share": 0.04
+   },
+   {
+    "label": "Označení kamaráda",
+    "share": 0.006
+   }
+  ],
+  "read_at": "16. 11. 2026 18:20"
+ },
+ "o2_history": [
+  {
+   "artist": "Yzomandias",
+   "date": "26. 9. 2026 (+ 27. 9.)",
+   "sold_out_in": "vyprodáno za rekordních 16 hodin",
+   "dates": 2,
+   "price_range": null,
+   "source": "https://www.o2arena.cz/yzomandias-adds-second-o2-arena"
+  },
+  {
+   "artist": "Calin",
+   "date": "1. 12. 2025 (+ 2. 12.)",
+   "sold_out_in": "vyprodáno za 24 hodin",
+   "dates": 2,
+   "price_range": null,
+   "source": "https://www.seznamzpravy.cz/clanek/kultura-calin-o2-arena-recenze-293199"
+  },
+  {
+   "artist": "Travis Scott",
+   "date": "18. 7. 2024",
+   "sold_out_in": "vyprodáno během několika minut",
+   "dates": 1,
+   "price_range": null,
+   "source": "https://tn.nova.cz/zpravodajstvi/clanek/554965-rapper-travis-scott-zpusobil-silenstvi-o2-arenu-vyprodal-behem-par-minut"
+  },
+  {
+   "artist": "Kontrafakt",
+   "date": "23. 9. 2023",
+   "sold_out_in": "prodáno všech 16 000 vstupenek",
+   "dates": 1,
+   "price_range": null,
+   "source": "https://cc.cz/s-kontrafaktem-vyprodali-o2-arenu-trzby-jsou-desitky-milionu-snime-o-eminemovi-rikaji-mafia-records/"
+  },
+  {
+   "artist": "Viktor Sheen a Calin",
+   "date": "12. 10. 2023",
+   "sold_out_in": "vyprodáno (rychlost neuvedena)",
+   "dates": 1,
+   "price_range": null,
+   "source": "https://cc.cz/chceme-videt-velke-ceske-rappery-zpatky-v-klubech-o2-arena-je-pouze-ego-boost-uspech-nedefinuje/"
+  },
+  {
+   "artist": "Marek Ztracený (Eden, ne O2)",
+   "date": "17. 6. 2023",
+   "sold_out_in": "32 000 vstupenek za 120 minut, fronta až 17 000 lidí",
+   "dates": 3,
+   "price_range": null,
+   "source": "https://forbes.cz/dokazal-co-nikdo-pred-nim-zvladne-marek-ztraceny-v-edenu-koncertni-hattrick/"
+  }
+ ],
+ "sources": [
+  {
+   "label": "O2 arena: Yzomandias přidává druhý termín",
+   "url": "https://www.o2arena.cz/yzomandias-adds-second-o2-arena"
+  },
+  {
+   "label": "Seznam Zprávy: Calin v O2 areně",
+   "url": "https://www.seznamzpravy.cz/clanek/kultura-calin-o2-arena-recenze-293199"
+  },
+  {
+   "label": "TN.cz: Travis Scott vyprodal O2 arenu během pár minut",
+   "url": "https://tn.nova.cz/zpravodajstvi/clanek/554965-rapper-travis-scott-zpusobil-silenstvi-o2-arenu-vyprodal-behem-par-minut"
+  },
+  {
+   "label": "Forbes: Marek Ztracený v Edenu",
+   "url": "https://forbes.cz/dokazal-co-nikdo-pred-nim-zvladne-marek-ztraceny-v-edenu-koncertni-hattrick/"
+  },
+  {
+   "label": "CzechCrunch: Kontrafakt vyprodal O2 arenu",
+   "url": "https://cc.cz/s-kontrafaktem-vyprodali-o2-arenu-trzby-jsou-desitky-milionu-snime-o-eminemovi-rikaji-mafia-records/"
+  },
+  {
+   "label": "O2 arena: kapacita až 20 000",
+   "url": "https://o2arena.cz/?p=2376"
+  },
+  {
+   "label": "Spotify: stránky interpretů, měsíční posluchači (16. 11. 2026, 18:11–18:24)",
+   "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+  },
+  {
+   "label": "kworb.net: PTK v žebříčcích Spotify a celkové streamy",
+   "url": "https://kworb.net/spotify/artist/5iYtjtFv6SvHX95ny4fVEz_songs.html"
+  },
+  {
+   "label": "Instagram: veřejné profily a posty (čteno 16. 11. 2026 18:20)",
+   "url": "https://www.instagram.com/takahiroryuu/"
+  }
+ ],
+ "ptk_facts": {
+  "spotify_monthly_listeners": 931600,
+  "spotify_streams_total": 660764390,
+  "album_now": "KARAKORAM DLC",
+  "album_rank_cz": 2,
+  "single_rank_cz": 2
+ }
+}
